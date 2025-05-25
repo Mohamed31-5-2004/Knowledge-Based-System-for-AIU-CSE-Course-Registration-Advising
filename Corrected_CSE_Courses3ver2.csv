@@ -1,0 +1,49 @@
+Course Code,Course Name,Description,Prerequisites,Co-requisites,Credit Hours,Semester Offered,Year
+MAT111,Mathematics I,Calculus and algebra basics,,,3,Fall,1
+PHY211,Physics II,Mechanics and electricity,,,3,Fall,1
+CSE014,Structured Programming,Introduction to programming concepts,,,3,Fall,1
+UC1,University Requirement (1),General education course,,,2,Fall,1
+UC2,University Requirement (2),General education course,,,2,Fall,1
+UE1,Elective University (1),Elective university course,,,2,Fall,1
+MAT112,Mathematics II,Advanced calculus topics,MAT111,,3,Spring,1
+MAT131,Probability & Statistics I,Introduction to probability,,,3,Spring,1
+CSE015,Object Oriented Programming,Introduction to OOP,CSE014,,3,Spring,1
+CSE315,Discrete Mathematics,Fundamentals of discrete math,,,3,Spring,1
+UC3,University Requirement (3),General education course,,,2,Spring,1
+UE2,Elective University (2),Elective university course,,,2,Spring,1
+MAT212,Linear Algebra,Introduction to linear algebra,MAT112,,3,Fall,2
+MAT231,Probability & Statistics II,Advanced probability topics,MAT131,,3,Fall,2
+CSE111,Data Structures,Fundamentals of data structures,CSE015,,3,Fall,2
+CSE131,Logic Design,Digital logic design fundamentals,,,3,Fall,2
+AIE111,Artificial Intelligence,Introduction to AI concepts,CSE015,,3,Fall,2
+UC4,University Requirement (4),General education course,,,2,Fall,2
+MAT312,Differential Equations,Introduction to differential equations,MAT212,,3,Spring,2
+CSE132,Computer Architecture & Organization,Computer architecture fundamentals,CSE131,,3,Spring,2
+CSE211,Web Programming,Introduction to web development,CSE015,,3,Spring,2
+CSE221,Database Systems,Fundamentals of database systems,CSE111,,3,Spring,2
+CSE191,Field Training 1 in Computer Science,Practical training in CS,,,2,Spring,2
+CSE251,Software Engineering,Software development principles,CSE015,,3,Spring,2
+CSE233,Operating Systems,Fundamentals of operating systems,CSE111,,3,Fall,3
+E1,Elective Course (1),Elective course in CS,,,3,Fall,3
+CSE261,Computer Networks,Introduction to networking,CSE014 AND CSE132,,3,Fall,3
+AIE121,Machine Learning,Introduction to ML algorithms,AIE111,,3,Fall,3
+CSE352,Systems Analysis & Design,Systems analysis techniques,CSE251,,3,Fall,3
+UC5,University Requirement (5),General education course,,,2,Fall,3
+CSE112,Design & Analysis of Algorithms,Algorithm design techniques,CSE111,,4,Spring,3
+E2,Elective Course (2),Elective course in CS,,,3,Spring,3
+CSE363,Cloud Computing,Introduction to cloud computing,CSE261,,3,Spring,3
+CSE373,Parallel Programming,Parallel programming concepts,CSE015,,3,Spring,3
+CSE392,Field Training 2 in Computer Science,Advanced practical training,,,2,Spring,3
+UC6,University Requirement (6),General education course,,,2,Spring,3
+CSE271,Introduction to Parallel Computing,Parallel computing fundamentals,CSE112,,3,Fall,4
+CSE322,Big Data Analytics 1,Introduction to big data analytics,AIE121,,3,Fall,4
+AIE323,Data Mining,Data mining techniques,AIE121,,3,Fall,4
+CSE493,Graduation Project 1,Capstone project part 1,SENIOR STANDING,,3,Fall,4
+E3,Elective Course (3),Elective course in CS,,,3,Fall,4
+UC7,University Requirement (7),General education course,,,2,Fall,4
+CSE411,Theory of Computation & Compilers,Theory of computation concepts,CSE014,,3,Spring,4
+CSE427,Selected Topics in Big Data,Advanced topics in big data,CSE322,,3,Spring,4
+CSE494,Graduation Project 2,Capstone project part 2,SENIOR STANDING,,3,Spring,4
+E4,Elective Course (4),Elective course in CS,,,3,Spring,4
+E5,Elective Course (5),Elective course in CS,,,3,Spring,4
+UE3,Elective University (3),Elective university course,,,2,Spring,4
